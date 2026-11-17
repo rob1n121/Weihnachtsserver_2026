@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34967481/README.md)
 <h1 align="center">❄️ Winterserver</h1>
 <p align="center"><b>Eine Sammlung selbst entwickelter Minecraft-Plugins für einen Event-Server zur Weihnachtszeit</b></p>
 
